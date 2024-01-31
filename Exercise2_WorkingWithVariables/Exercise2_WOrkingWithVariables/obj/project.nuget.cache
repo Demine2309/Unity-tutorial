@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9UcGUCP4cyn3qbXi89H9HBaYyLPn0/itMDWeGhJljRLnae5z3Q+acFP6qhGycXh7qfQJIRYHz/YHkIcSEtFUw==",
+  "success": true,
+  "projectFilePath": "D:\\downloads\\Exercise2_WorkingWithVariables\\Exercise2_WOrkingWithVariables\\Exercise2_WOrkingWithVariables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\Exercise 3 - Variables Advanced.csproj.AssemblyReference.cache
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\Exercise 3 - Variables Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\Exercise 3 - Variables Advanced.AssemblyInfoInputs.cache
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\Exercise 3 - Variables Advanced.AssemblyInfo.cs
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\Exercise 3 - Variables Advanced.csproj.CoreCompileInputs.cache
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\bin\Debug\net6.0\Exercise 3 - Variables Advanced.exe
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\bin\Debug\net6.0\Exercise 3 - Variables Advanced.deps.json
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\bin\Debug\net6.0\Exercise 3 - Variables Advanced.runtimeconfig.json
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\bin\Debug\net6.0\Exercise 3 - Variables Advanced.dll
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\bin\Debug\net6.0\Exercise 3 - Variables Advanced.pdb
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\Exercise 3 - Variables Advanced.dll
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\refint\Exercise 3 - Variables Advanced.dll
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\Exercise 3 - Variables Advanced.pdb
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\Exercise 3 - Variables Advanced.genruntimeconfig.cache
+C:\Users\metza\Desktop\Exercise 3 - Variables Advanced\Exercise 3 - Variables Advanced\obj\Debug\net6.0\ref\Exercise 3 - Variables Advanced.dll
