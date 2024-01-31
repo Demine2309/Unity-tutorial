@@ -3,8 +3,10 @@
 //Try to figure out why it happens and fix it
 
 string num1 = "2";
+int intNum1 = int.Parse(num1);
 string num2 = "3";
-string sum = (num1 + num2).ToString();
+int intNum2 = int.Parse(num2);
+int sum = intNum1 + intNum2;
 Console.WriteLine("A) " + sum);
 
 
@@ -13,9 +15,9 @@ Console.WriteLine("A) " + sum);
 //and then the result should be output
 
 Console.WriteLine("Enter first Number");
-int input1 = 0;//TODO: Player should be able to enter a number. Hint: you need to conert it! 
+int input1 = int.Parse(Console.ReadLine());//TODO: Player should be able to enter a number. Hint: you need to conert it! 
 Console.WriteLine("Enter second Number");
-int input2 = 0;//TODO: Player should be able to enter a number.
+int input2 = int.Parse(Console.ReadLine());//TODO: Player should be able to enter a number.
 int result = input1 * input2;
 Console.WriteLine("B) " + input1 + "*" + input2 + "=" + result);
 
@@ -27,6 +29,6 @@ Console.WriteLine("B) " + input1 + "*" + input2 + "=" + result);
 
 int enemyHp = 100;
 Random rng = new Random();
-int dmg = 10;
+int dmg = rng.Next(10,15);
 enemyHp -= dmg;
 Console.WriteLine("C) You dealt " + dmg + " to the enemy. It now has " + enemyHp + "hp left.");

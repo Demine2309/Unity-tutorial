@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\metza\\Desktop\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced.csproj": {}
+    "D:\\Code\\Unity new\\Unity tutorial exercise\\Unity-tutorial\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced.csproj": {}
   },
   "projects": {
-    "C:\\Users\\metza\\Desktop\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced.csproj": {
+    "D:\\Code\\Unity new\\Unity tutorial exercise\\Unity-tutorial\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\metza\\Desktop\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced.csproj",
+        "projectUniqueName": "D:\\Code\\Unity new\\Unity tutorial exercise\\Unity-tutorial\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced.csproj",
         "projectName": "Exercise 3 - Variables Advanced",
-        "projectPath": "C:\\Users\\metza\\Desktop\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced.csproj",
-        "packagesPath": "C:\\Users\\metza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\metza\\Desktop\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\obj\\",
+        "projectPath": "D:\\Code\\Unity new\\Unity tutorial exercise\\Unity-tutorial\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\Unity new\\Unity tutorial exercise\\Unity-tutorial\\Exercise 3 - Variables Advanced\\Exercise 3 - Variables Advanced\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\metza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
