@@ -1,0 +1,15 @@
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\bin\Debug\net8.0\Project 1 - Pokemon Fight.exe
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\bin\Debug\net8.0\Project 1 - Pokemon Fight.deps.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\bin\Debug\net8.0\Project 1 - Pokemon Fight.runtimeconfig.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\bin\Debug\net8.0\Project 1 - Pokemon Fight.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\bin\Debug\net8.0\Project 1 - Pokemon Fight.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\Project 1 - Pokemon Fight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\Project 1 - Pokemon Fight.AssemblyInfoInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\Project 1 - Pokemon Fight.AssemblyInfo.cs
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\Project 1 - Pokemon Fight.csproj.CoreCompileInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\Project 1 - Pokemon Fight.sourcelink.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\Project 1 - Pokemon Fight.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\refint\Project 1 - Pokemon Fight.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\Project 1 - Pokemon Fight.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\Project 1 - Pokemon Fight.genruntimeconfig.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\Project 1 - Pokemon Fight\obj\Debug\net8.0\ref\Project 1 - Pokemon Fight.dll
