@@ -37,13 +37,16 @@ if (isPlayerInvulnerable == true)
 {
     Console.WriteLine("No damage received!");
 }
-if (playerHasArmor == true)
+else
 {
-    playerHp -= damage / 2;
-}
-if (playerHasArmor == false)
-{
-    playerHp -= damage;
+    if (playerHasArmor == true)
+    {
+        playerHp -= damage / 2;
+    }
+    else if (playerHasArmor == false)
+    {
+        playerHp -= damage;
+    }
 }
 Console.WriteLine("Player HP after attack: " + playerHp);
 
@@ -65,7 +68,10 @@ string rightLeverState = Console.ReadLine();
 
 //If the player sets the levers this way he should get the message:
 //"The door that blocked your way opens. You are free to continue your adventure."
-
+if(leftLeverState == "up" && rightLeverState == "up" && centerLeverState == "down")
+{
+    Console.WriteLine("The door that blocked your way opens. You are free to continue your adventure.");
+}
 
 //b) Dangerous Situations
 //Left Lever: up
@@ -78,9 +84,16 @@ string rightLeverState = Console.ReadLine();
 
 //If the player sets the levers in one of these ways he should get the message:
 //"Oh no! A trapdoor beneath you opens and you fall to your death :("
-
+else if((leftLeverState == "up" && rightLeverState == "down" && centerLeverState == "down") || (leftLeverState == "down" && rightLeverState == "up" && centerLeverState == "down"))
+{
+    Console.WriteLine("Oh no! A trapdoor beneath you opens and you fall to your death :(");
+}
 
 
 //c) Handle remaining Situations
 //If the player sets the levers in any other way, he should get the message:
 //"Nothing happens"
+else
+{
+    Console.WriteLine("Nothing happens");
+}

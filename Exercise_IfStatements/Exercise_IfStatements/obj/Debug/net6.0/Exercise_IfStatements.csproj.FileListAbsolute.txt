@@ -13,3 +13,18 @@ C:\Users\metza\Desktop\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net
 C:\Users\metza\Desktop\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.pdb
 C:\Users\metza\Desktop\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.genruntimeconfig.cache
 C:\Users\metza\Desktop\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\ref\Exercise_IfStatements.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\bin\Debug\net6.0\Exercise_IfStatements.exe
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\bin\Debug\net6.0\Exercise_IfStatements.deps.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\bin\Debug\net6.0\Exercise_IfStatements.runtimeconfig.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\bin\Debug\net6.0\Exercise_IfStatements.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\bin\Debug\net6.0\Exercise_IfStatements.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.AssemblyInfoInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.AssemblyInfo.cs
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.csproj.CoreCompileInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.sourcelink.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\refint\Exercise_IfStatements.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\Exercise_IfStatements.genruntimeconfig.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Exercise_IfStatements\Exercise_IfStatements\obj\Debug\net6.0\ref\Exercise_IfStatements.dll
