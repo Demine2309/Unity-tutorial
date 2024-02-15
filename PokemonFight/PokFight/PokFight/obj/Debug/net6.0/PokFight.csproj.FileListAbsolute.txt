@@ -1,0 +1,15 @@
+C:\Users\metza\Desktop\PokFight\PokFight\bin\Debug\net6.0\PokFight.exe
+C:\Users\metza\Desktop\PokFight\PokFight\bin\Debug\net6.0\PokFight.deps.json
+C:\Users\metza\Desktop\PokFight\PokFight\bin\Debug\net6.0\PokFight.runtimeconfig.json
+C:\Users\metza\Desktop\PokFight\PokFight\bin\Debug\net6.0\PokFight.dll
+C:\Users\metza\Desktop\PokFight\PokFight\bin\Debug\net6.0\PokFight.pdb
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.csproj.AssemblyReference.cache
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.AssemblyInfoInputs.cache
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.AssemblyInfo.cs
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.csproj.CoreCompileInputs.cache
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.dll
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\refint\PokFight.dll
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.pdb
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.genruntimeconfig.cache
+C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\ref\PokFight.dll
