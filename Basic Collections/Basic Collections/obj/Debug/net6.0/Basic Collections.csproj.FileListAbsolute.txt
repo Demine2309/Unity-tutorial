@@ -1,0 +1,30 @@
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.csproj.AssemblyReference.cache
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.AssemblyInfoInputs.cache
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.AssemblyInfo.cs
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.csproj.CoreCompileInputs.cache
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.exe
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.deps.json
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.runtimeconfig.json
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.dll
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.pdb
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.dll
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\refint\Basic Collections.dll
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.pdb
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.genruntimeconfig.cache
+C:\Users\metza\Desktop\Basic Collections\Basic Collections\obj\Debug\net6.0\ref\Basic Collections.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.exe
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.deps.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.runtimeconfig.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\bin\Debug\net6.0\Basic Collections.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.AssemblyInfoInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.AssemblyInfo.cs
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.csproj.CoreCompileInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.sourcelink.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\refint\Basic Collections.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\Basic Collections.genruntimeconfig.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Basic Collections\Basic Collections\obj\Debug\net6.0\ref\Basic Collections.dll
