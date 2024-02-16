@@ -1,0 +1,30 @@
+C:\Users\metza\Desktop\Loops\Loops\bin\Debug\net6.0\Loops.exe
+C:\Users\metza\Desktop\Loops\Loops\bin\Debug\net6.0\Loops.deps.json
+C:\Users\metza\Desktop\Loops\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+C:\Users\metza\Desktop\Loops\Loops\bin\Debug\net6.0\Loops.dll
+C:\Users\metza\Desktop\Loops\Loops\bin\Debug\net6.0\Loops.pdb
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\Loops.dll
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\refint\Loops.dll
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\Loops.pdb
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+C:\Users\metza\Desktop\Loops\Loops\obj\Debug\net6.0\ref\Loops.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\bin\Debug\net6.0\Loops.exe
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\bin\Debug\net6.0\Loops.deps.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\bin\Debug\net6.0\Loops.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\bin\Debug\net6.0\Loops.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\Loops.sourcelink.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\Loops.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\refint\Loops.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\Loops.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Loops\Loops\obj\Debug\net6.0\ref\Loops.dll

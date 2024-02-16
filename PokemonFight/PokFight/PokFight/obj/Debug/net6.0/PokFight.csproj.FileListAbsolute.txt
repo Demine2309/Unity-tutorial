@@ -13,3 +13,18 @@ C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\refint\PokFight.dll
 C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.pdb
 C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\PokFight.genruntimeconfig.cache
 C:\Users\metza\Desktop\PokFight\PokFight\obj\Debug\net6.0\ref\PokFight.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\bin\Debug\net6.0\PokFight.exe
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\bin\Debug\net6.0\PokFight.deps.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\bin\Debug\net6.0\PokFight.runtimeconfig.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\bin\Debug\net6.0\PokFight.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\bin\Debug\net6.0\PokFight.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\PokFight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\PokFight.AssemblyInfoInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\PokFight.AssemblyInfo.cs
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\PokFight.csproj.CoreCompileInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\PokFight.sourcelink.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\PokFight.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\refint\PokFight.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\PokFight.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\PokFight.genruntimeconfig.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\PokemonFight\PokFight\PokFight\obj\Debug\net6.0\ref\PokFight.dll

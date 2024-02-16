@@ -11,47 +11,75 @@ Random rng = new Random();
 int pok1Dmg = 0; 
 int pok2Dmg = 0;
 
-#region Turn1
-Console.WriteLine("------------Turn 1------------");
-pok1Dmg = rng.Next(10,21);
-pok2Dmg = rng.Next(10, 21);
+//#region Turn1
+//Console.WriteLine("------------Turn 1------------");
+//pok1Dmg = rng.Next(10,21);
+//pok2Dmg = rng.Next(10, 21);
 
-Console.WriteLine(pok1Name + " attacks " + pok2Name + " and deals " + pok1Dmg + " damage");
-Console.WriteLine(pok2Name + " attacks " + pok1Name + " and deals " + pok2Dmg + " damage");
+//Console.WriteLine(pok1Name + " attacks " + pok2Name + " and deals " + pok1Dmg + " damage");
+//Console.WriteLine(pok2Name + " attacks " + pok1Name + " and deals " + pok2Dmg + " damage");
 
-pok1Hp -= pok2Dmg;
-pok2Hp -= pok1Dmg;
+//pok1Hp -= pok2Dmg;
+//pok2Hp -= pok1Dmg;
 
-Console.WriteLine(pok1Name + ": " + pok1Hp);
-Console.WriteLine(pok2Name + ": " + pok2Hp);
-#endregion
+//Console.WriteLine(pok1Name + ": " + pok1Hp);
+//Console.WriteLine(pok2Name + ": " + pok2Hp);
+//#endregion
 
-#region Turn2
-Console.WriteLine("------------Turn 2------------");
-pok1Dmg = rng.Next(10, 21);
-pok2Dmg = rng.Next(10, 21);
+//#region Turn2
+//Console.WriteLine("------------Turn 2------------");
+//pok1Dmg = rng.Next(10, 21);
+//pok2Dmg = rng.Next(10, 21);
 
-Console.WriteLine(pok1Name + " attacks " + pok2Name + " and deals " + pok1Dmg + " damage");
-Console.WriteLine(pok2Name + " attacks " + pok1Name + " and deals " + pok2Dmg + " damage");
+//Console.WriteLine(pok1Name + " attacks " + pok2Name + " and deals " + pok1Dmg + " damage");
+//Console.WriteLine(pok2Name + " attacks " + pok1Name + " and deals " + pok2Dmg + " damage");
 
-pok1Hp -= pok2Dmg;
-pok2Hp -= pok1Dmg;
+//pok1Hp -= pok2Dmg;
+//pok2Hp -= pok1Dmg;
 
-Console.WriteLine(pok1Name + ": " + pok1Hp);
-Console.WriteLine(pok2Name + ": " + pok2Hp);
-#endregion
+//Console.WriteLine(pok1Name + ": " + pok1Hp);
+//Console.WriteLine(pok2Name + ": " + pok2Hp);
+//#endregion
 
-#region Turn3
-Console.WriteLine("------------Turn 3------------");
-pok1Dmg = rng.Next(10, 21);
-pok2Dmg = rng.Next(10, 21);
+//#region Turn3
+//Console.WriteLine("------------Turn 3------------");
+//pok1Dmg = rng.Next(10, 21);
+//pok2Dmg = rng.Next(10, 21);
 
-Console.WriteLine(pok1Name + " attacks " + pok2Name + " and deals " + pok1Dmg + " damage");
-Console.WriteLine(pok2Name + " attacks " + pok1Name + " and deals " + pok2Dmg + " damage");
+//Console.WriteLine(pok1Name + " attacks " + pok2Name + " and deals " + pok1Dmg + " damage");
+//Console.WriteLine(pok2Name + " attacks " + pok1Name + " and deals " + pok2Dmg + " damage");
 
-pok1Hp -= pok2Dmg;
-pok2Hp -= pok1Dmg;
+//pok1Hp -= pok2Dmg;
+//pok2Hp -= pok1Dmg;
 
-Console.WriteLine(pok1Name + ": " + pok1Hp);
-Console.WriteLine(pok2Name + ": " + pok2Hp);
-#endregion
+//Console.WriteLine(pok1Name + ": " + pok1Hp);
+//Console.WriteLine(pok2Name + ": " + pok2Hp);
+//#endregion
+
+int i = 1;
+
+while (true)
+{
+    Console.WriteLine($"------------Turn {i}------------");
+    pok1Dmg = rng.Next(10, 21);
+    pok2Dmg = rng.Next(10, 21);
+
+    Console.WriteLine(pok1Name + " attacks " + pok2Name + " and deals " + pok1Dmg + " damage");
+    Console.WriteLine(pok2Name + " attacks " + pok1Name + " and deals " + pok2Dmg + " damage");
+
+    pok1Hp -= pok2Dmg;
+    pok2Hp -= pok1Dmg;
+
+    Console.WriteLine(pok1Name + ": " + pok1Hp);
+    Console.WriteLine(pok2Name + ": " + pok2Hp);
+
+    if (pok1Hp <= 0 || pok2Hp <= 0)
+    {
+        Console.WriteLine("The fight is concluded");
+        break;
+    }
+    else
+    {
+        i++;
+    }
+}

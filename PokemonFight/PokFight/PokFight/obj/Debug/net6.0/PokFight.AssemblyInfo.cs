@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PokFight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad0a7af999613b7aea470c382dedb2c14cbee62b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PokFight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PokFight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
