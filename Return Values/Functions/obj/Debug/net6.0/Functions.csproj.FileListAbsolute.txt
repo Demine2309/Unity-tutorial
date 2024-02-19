@@ -1,0 +1,30 @@
+C:\Users\metza\Desktop\Functions\Functions\bin\Debug\net6.0\Functions.exe
+C:\Users\metza\Desktop\Functions\Functions\bin\Debug\net6.0\Functions.deps.json
+C:\Users\metza\Desktop\Functions\Functions\bin\Debug\net6.0\Functions.runtimeconfig.json
+C:\Users\metza\Desktop\Functions\Functions\bin\Debug\net6.0\Functions.dll
+C:\Users\metza\Desktop\Functions\Functions\bin\Debug\net6.0\Functions.pdb
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\Functions.csproj.AssemblyReference.cache
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\Functions.dll
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\refint\Functions.dll
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\Functions.pdb
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\Functions.genruntimeconfig.cache
+C:\Users\metza\Desktop\Functions\Functions\obj\Debug\net6.0\ref\Functions.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\bin\Debug\net6.0\Functions.exe
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\bin\Debug\net6.0\Functions.deps.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\bin\Debug\net6.0\Functions.runtimeconfig.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\bin\Debug\net6.0\Functions.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\bin\Debug\net6.0\Functions.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\Functions.sourcelink.json
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\Functions.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\refint\Functions.dll
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\Functions.pdb
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\Functions.genruntimeconfig.cache
+D:\Code\Unity new\Unity tutorial exercise\Unity-tutorial\Return Values\Functions\obj\Debug\net6.0\ref\Functions.dll
