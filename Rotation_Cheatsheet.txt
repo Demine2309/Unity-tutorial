@@ -1,0 +1,11 @@
+//Set rotation directly
+transform.rotation = Quaternion.Euler(0,0,45);
+        
+//Constantly rotate
+float rotationSpeed = Time.deltaTime * 90;
+transform.Rotate(0, 0, -rotationSpeed);
+
+//Look at mouse
+Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition) + Vector3.forward * 10;
+Vector3 dirToMouse = mousePos - transform.position;
+transform.up = dirToMouse;
